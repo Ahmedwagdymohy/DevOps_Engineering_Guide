@@ -65,11 +65,11 @@ with the following options:
     chage [options] username
    ```
 
-• Options
-• -m: to change the min number of days between password changes
-• -M: to change the max number of days between password changes
-• -E date: change the expiration date for the account
-• -W: change the number of days to start warning before a password
+**Options**
+ - -m: to change the min number of days between password changes
+ - -M: to change the max number of days between password changes
+ - -E date: change the expiration date for the account
+ - -W: change the number of days to start warning before a password
 change will be required
 
 
